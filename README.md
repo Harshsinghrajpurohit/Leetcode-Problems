@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -23,4 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
