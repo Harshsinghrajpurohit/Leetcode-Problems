@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
