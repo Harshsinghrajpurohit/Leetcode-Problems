@@ -30,3 +30,7 @@ class Solution:
             return[-1,-1]
         ub=self.upperBound(nums,target)
         return [lb,ub-1]       
+
+
+        #time complexity=O(2logN) ~ O(logN)
+        #space comlexity=O(1)
